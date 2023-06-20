@@ -1,14 +1,17 @@
 {
   "name": "han-component-library",
+<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
+=======
+  "version": "0.2.0",
+>>>>>>> f3cf08dd (update)
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.34",
-    "@types/react": "^18.2.8",
     "@types/react-dom": "^18.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -52,6 +55,7 @@
     "@storybook/react": "^7.0.18",
     "@storybook/react-webpack5": "^7.0.18",
     "@storybook/testing-library": "^0.0.14-next.2",
+    "@types/react": "^18.2.11",
     "babel-plugin-named-exports-order": "^0.0.2",
     "eslint-plugin-storybook": "^0.6.12",
     "prop-types": "^15.8.1",
